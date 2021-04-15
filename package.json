@@ -1,0 +1,28 @@
+{
+  "name": "firstbot",
+  "version": "1.0.0",
+  "description": "My first Discord bot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "node bot.js",
+    "devStart": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "Swatilekha Roy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swatilekha-Roy/First-Discord-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Swatilekha-Roy/First-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Swatilekha-Roy/First-Discord-Bot#readme"
+}
